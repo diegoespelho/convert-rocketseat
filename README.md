@@ -25,11 +25,11 @@ Conversor de moedas desenvolvido durante curso Full-Stack by Rocketseat.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma)](https://skillicons.dev)
 
 ## 💻 Projeto
 
-O convert é um conversor de moedas com atualização da cotação através do consumo de API.
+O Convert é um conversor de moedas com atualização da cotação através do consumo de API.
 
 - [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/convert-rocketseat/)
 
